@@ -1,5 +1,5 @@
 # HTML-Crawler 🕷🕸
-## A fullStack webapp written in React with TypeScript and Express
+### FullStack webapp written in React with TypeScript and Express
 ## A full-fledged webapp that crawl the DOM of an HTML page
 - uses multithreaded DFS to traverse the tree
   * traverses also taking into account any attributes embedded into the tag
